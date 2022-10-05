@@ -1,0 +1,361 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Blumenfeld:2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cfa2bb0dd9f3928d2fb83762fe51231f}{%
+           family={Blumenfeld},
+           familyi={B\bibinitperiod},
+           given={Lev},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Anthem Press New York, NY}%
+      }
+      \strng{namehash}{cfa2bb0dd9f3928d2fb83762fe51231f}
+      \strng{fullhash}{cfa2bb0dd9f3928d2fb83762fe51231f}
+      \strng{bibnamehash}{cfa2bb0dd9f3928d2fb83762fe51231f}
+      \strng{authorbibnamehash}{cfa2bb0dd9f3928d2fb83762fe51231f}
+      \strng{authornamehash}{cfa2bb0dd9f3928d2fb83762fe51231f}
+      \strng{authorfullhash}{cfa2bb0dd9f3928d2fb83762fe51231f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Russian language studies in {N}orth {A}merica: {N}ew perspectives from theoretical and applied linguistics}
+      \field{title}{{V}owel-zero alternations in {R}ussian prepositions: {P}rosodic constituency and productivity}
+      \field{year}{2011}
+      \field{pages}{43\bibrangedash 70}
+      \range{pages}{28}
+    \endentry
+    \entry{Scheer:2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aa7690597de43cd554a2255de1aabde6}{%
+           family={d’Alessandro},
+           familyi={d\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec5d5a8aecd0ef4cf6d29a07356df40a}{%
+           family={Scheer},
+           familyi={S\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT press}%
+      }
+      \strng{namehash}{4b4ac8271521ec6bcfcd1ea1fd8c1b15}
+      \strng{fullhash}{4b4ac8271521ec6bcfcd1ea1fd8c1b15}
+      \strng{bibnamehash}{4b4ac8271521ec6bcfcd1ea1fd8c1b15}
+      \strng{authorbibnamehash}{4b4ac8271521ec6bcfcd1ea1fd8c1b15}
+      \strng{authornamehash}{4b4ac8271521ec6bcfcd1ea1fd8c1b15}
+      \strng{authorfullhash}{4b4ac8271521ec6bcfcd1ea1fd8c1b15}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistic Inquiry}
+      \field{number}{4}
+      \field{title}{Modular {P}{I}{C}}
+      \field{volume}{46}
+      \field{year}{2015}
+      \field{pages}{593\bibrangedash 624}
+      \range{pages}{32}
+    \endentry
+    \entry{Enguehard:2014}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=839ccda4a72812c9dc22615f8bc1e808}{%
+           family={Enguehard},
+           familyi={E\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{fullhash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{bibnamehash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{authorbibnamehash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{authornamehash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{authorfullhash}{839ccda4a72812c9dc22615f8bc1e808}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ConSOLE XXIII}
+      \field{title}{Stress as a morphological edge}
+      \field{year}{2014}
+    \endentry
+    \entry{Enguehard:2016}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=839ccda4a72812c9dc22615f8bc1e808}{%
+           family={Enguehard},
+           familyi={E\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{fullhash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{bibnamehash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{authorbibnamehash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{authornamehash}{839ccda4a72812c9dc22615f8bc1e808}
+      \strng{authorfullhash}{839ccda4a72812c9dc22615f8bc1e808}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Formal Description of Slavic Languages}
+      \field{title}{Russian vowel reduction and length in CVCV}
+      \field{year}{2016}
+    \endentry
+    \entry{Faust:2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e0417f209302db76da671293703a76b4}{%
+           family={Faust},
+           familyi={F\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4c0395e31a8d3c90b2c378004eea295}{%
+           family={Ulfsbjorninn},
+           familyi={U\bibinitperiod},
+           given={Shanti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De {G}ruyter}%
+      }
+      \strng{namehash}{f7641ea36d53f7def0ff13b04f015bc7}
+      \strng{fullhash}{f7641ea36d53f7def0ff13b04f015bc7}
+      \strng{bibnamehash}{f7641ea36d53f7def0ff13b04f015bc7}
+      \strng{authorbibnamehash}{f7641ea36d53f7def0ff13b04f015bc7}
+      \strng{authornamehash}{f7641ea36d53f7def0ff13b04f015bc7}
+      \strng{authorfullhash}{f7641ea36d53f7def0ff13b04f015bc7}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The {L}inguistic {R}eview}
+      \field{number}{4}
+      \field{title}{Arabic stress in strict {C}{V}, with no moras, no syllables, no feet and no extrametricality}
+      \field{volume}{35}
+      \field{year}{2018}
+      \field{pages}{561\bibrangedash 600}
+      \range{pages}{40}
+    \endentry
+    \entry{Gribanova:2013}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=09e1f5357382f1efd5ffacbf741da2ed}{%
+           family={Gribanova},
+           familyi={G\bibinitperiod},
+           given={Vera},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfa2bb0dd9f3928d2fb83762fe51231f}{%
+           family={Blumenfeld},
+           familyi={B\bibinitperiod},
+           given={Lev},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c30eac0a554f3ed1380e919c62466ffd}
+      \strng{fullhash}{c30eac0a554f3ed1380e919c62466ffd}
+      \strng{bibnamehash}{c30eac0a554f3ed1380e919c62466ffd}
+      \strng{authorbibnamehash}{c30eac0a554f3ed1380e919c62466ffd}
+      \strng{authornamehash}{c30eac0a554f3ed1380e919c62466ffd}
+      \strng{authorfullhash}{c30eac0a554f3ed1380e919c62466ffd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 49th {M}eeting of the {C}hicago {L}inguistic {S}ociety}
+      \field{title}{Russian prepositions and prefixes: {U}nifying prosody and syntax}
+      \field{year}{2013}
+      \field{pages}{115\bibrangedash 129}
+      \range{pages}{15}
+    \endentry
+    \entry{Marvin:2013}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a7e79c14c1b1ac425b5f4d723f7064a2}{%
+           family={Marvin},
+           familyi={M\bibinitperiod},
+           given={Tatjana},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press Cambridge, MA}%
+      }
+      \strng{namehash}{a7e79c14c1b1ac425b5f4d723f7064a2}
+      \strng{fullhash}{a7e79c14c1b1ac425b5f4d723f7064a2}
+      \strng{bibnamehash}{a7e79c14c1b1ac425b5f4d723f7064a2}
+      \strng{authorbibnamehash}{a7e79c14c1b1ac425b5f4d723f7064a2}
+      \strng{authornamehash}{a7e79c14c1b1ac425b5f4d723f7064a2}
+      \strng{authorfullhash}{a7e79c14c1b1ac425b5f4d723f7064a2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Distributed {M}orphology today: morphemes for {M}orris {H}alle}
+      \field{title}{Is word structure relevant for stress assignment}
+      \field{year}{2013}
+      \field{pages}{79\bibrangedash 93}
+      \range{pages}{15}
+    \endentry
+    \entry{Melvold:1989}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=63511efbb48b5739fcfb777e9e293e84}{%
+           family={Melvold},
+           familyi={M\bibinitperiod},
+           given={Janis\bibnamedelima Leanne},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology}%
+      }
+      \strng{namehash}{63511efbb48b5739fcfb777e9e293e84}
+      \strng{fullhash}{63511efbb48b5739fcfb777e9e293e84}
+      \strng{bibnamehash}{63511efbb48b5739fcfb777e9e293e84}
+      \strng{authorbibnamehash}{63511efbb48b5739fcfb777e9e293e84}
+      \strng{authornamehash}{63511efbb48b5739fcfb777e9e293e84}
+      \strng{authorfullhash}{63511efbb48b5739fcfb777e9e293e84}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Structure and stress in the phonology of Russian}
+      \field{type}{phdthesis}
+      \field{year}{1989}
+    \endentry
+    \entry{Privoznov:2021}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ade7f366aa1b894fa10e252d13758cce}{%
+           family={Privoznov},
+           familyi={P\bibinitperiod},
+           given={Dmitry},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology}%
+      }
+      \strng{namehash}{ade7f366aa1b894fa10e252d13758cce}
+      \strng{fullhash}{ade7f366aa1b894fa10e252d13758cce}
+      \strng{bibnamehash}{ade7f366aa1b894fa10e252d13758cce}
+      \strng{authorbibnamehash}{ade7f366aa1b894fa10e252d13758cce}
+      \strng{authornamehash}{ade7f366aa1b894fa10e252d13758cce}
+      \strng{authorfullhash}{ade7f366aa1b894fa10e252d13758cce}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A theory of two strong islands}
+      \field{type}{phdthesis}
+      \field{year}{2021}
+    \endentry
+    \entry{Scheer:2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec5d5a8aecd0ef4cf6d29a07356df40a}{%
+           family={Scheer},
+           familyi={S\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De {G}ruyter}%
+      }
+      \strng{namehash}{ec5d5a8aecd0ef4cf6d29a07356df40a}
+      \strng{fullhash}{ec5d5a8aecd0ef4cf6d29a07356df40a}
+      \strng{bibnamehash}{ec5d5a8aecd0ef4cf6d29a07356df40a}
+      \strng{authorbibnamehash}{ec5d5a8aecd0ef4cf6d29a07356df40a}
+      \strng{authornamehash}{ec5d5a8aecd0ef4cf6d29a07356df40a}
+      \strng{authorfullhash}{ec5d5a8aecd0ef4cf6d29a07356df40a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Direct interface and one-channel translation. {V}ol. 2 of {A} lateral theory of phonology}
+      \field{year}{2012}
+    \endentry
+    \entry{Stepanov:2007}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=029d0d93702bd0360395fce44d9eadf6}{%
+           family={Stepanov},
+           familyi={S\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{029d0d93702bd0360395fce44d9eadf6}
+      \strng{fullhash}{029d0d93702bd0360395fce44d9eadf6}
+      \strng{bibnamehash}{029d0d93702bd0360395fce44d9eadf6}
+      \strng{authorbibnamehash}{029d0d93702bd0360395fce44d9eadf6}
+      \strng{authornamehash}{029d0d93702bd0360395fce44d9eadf6}
+      \strng{authorfullhash}{029d0d93702bd0360395fce44d9eadf6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Syntax}
+      \field{number}{1}
+      \field{title}{The end of {C}{E}{D}? {M}inimalism and extraction domains}
+      \field{volume}{10}
+      \field{year}{2007}
+      \field{pages}{80\bibrangedash 126}
+      \range{pages}{47}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
